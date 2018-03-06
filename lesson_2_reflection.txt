@@ -1,0 +1,4 @@
+what happens when you initialize a repository? Why do you need to do it?
+
+It creates a hidden files called .git which can store commits since the moment
+it was created. You just need to type git init.
