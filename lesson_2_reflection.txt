@@ -10,3 +10,4 @@ Working directory is where you have your files without tracking with git tool;
 staging area is where you put your files to make a commit; a repository is where
 all commits are placed.
 
+Proving another commit
