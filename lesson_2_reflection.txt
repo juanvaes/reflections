@@ -2,3 +2,11 @@ what happens when you initialize a repository? Why do you need to do it?
 
 It creates a hidden files called .git which can store commits since the moment
 it was created. You just need to type git init.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+Working directory is where you have your files without tracking with git tool; 
+staging area is where you put your files to make a commit; a repository is where
+all commits are placed.
+
